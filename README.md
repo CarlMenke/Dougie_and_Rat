@@ -1,0 +1,2 @@
+# Dougie_and_Rat
+Dougie the Donut and Pizza Rat have become best buds taking New York City by storm. They've taken it upon themselves to cause trouble around the city! The catch is, they want to avoid the authorities so they've put their brains together to come up with a helpful app idea that will allow them to see what kind of adventures they can have without getting into trouble. Let's help them build it!
